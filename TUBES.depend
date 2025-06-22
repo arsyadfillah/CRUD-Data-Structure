@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1733065843 source:c:\users\alimo\onedrive\dokumen\folder kuliah\semester 3\struktur data\latihan cpp\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1733065837 source:c:\users\alimo\onedrive\dokumen\folder kuliah\semester 3\struktur data\latihan cpp\tubes\tubes.cpp
+	"TUBES.h"
+
+1733065929 c:\users\alimo\onedrive\dokumen\folder kuliah\semester 3\struktur data\latihan cpp\tubes\tubes.h
+	<iostream>
+
+1734542243 source:d:\arsyad\telkom university\smt 3\strukdat\tubes_progress\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1734543152 d:\arsyad\telkom university\smt 3\strukdat\tubes_progress\tubes\tubes.h
+	<iostream>
+	<iomanip>
+
+1734543723 source:d:\arsyad\telkom university\smt 3\strukdat\tubes_progress\tubes\tubes.cpp
+	"TUBES.h"
+
+1734542243 source:d:\arsyad\telkom university\smt 3\strukdat\tubes_finaleuy\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1734543152 d:\arsyad\telkom university\smt 3\strukdat\tubes_finaleuy\tubes\tubes.h
+	<iostream>
+	<iomanip>
+
+1734604360 source:d:\arsyad\telkom university\smt 3\strukdat\tubes_finaleuy\tubes\tubes.cpp
+	"TUBES.h"
+
+1734542243 source:c:\users\alimo\downloads\tubes_finaleuy\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1734618597 c:\users\alimo\downloads\tubes_finaleuy\tubes\tubes.h
+	<iostream>
+	<iomanip>
+
+1734618999 source:c:\users\alimo\downloads\tubes_finaleuy\tubes\tubes.cpp
+	"TUBES.h"
+
+1734542243 source:c:\users\alimo\downloads\tubes_beneranfinaleuy\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1734618597 c:\users\alimo\downloads\tubes_beneranfinaleuy\tubes\tubes.h
+	<iostream>
+	<iomanip>
+
+1734621130 source:c:\users\alimo\downloads\tubes_beneranfinaleuy\tubes\tubes.cpp
+	"TUBES.h"
+
+1734542243 source:d:\tubes_beneranfinaleuy\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1734618597 d:\tubes_beneranfinaleuy\tubes\tubes.h
+	<iostream>
+	<iomanip>
+
+1734621130 source:d:\tubes_beneranfinaleuy\tubes\tubes.cpp
+	"TUBES.h"
+
